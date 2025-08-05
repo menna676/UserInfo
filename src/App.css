@@ -1,0 +1,6 @@
+/* Main App styles - only app-specific styles */
+@media (max-width: 480px) {
+  .main-content {
+    padding-top: 70px;
+  }
+}
